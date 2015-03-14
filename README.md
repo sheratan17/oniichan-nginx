@@ -1,4 +1,4 @@
-# OniichaNGINX
+# Oniichan-NGINX
 
 NGINX yang digunakan di [Oniichan.us](https://oniichan.us) dengan compile:
 
