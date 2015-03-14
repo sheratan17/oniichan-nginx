@@ -6,7 +6,7 @@ NGINX yang digunakan di [Oniichan.us](https://oniichan.us) dengan compile:
 
 sederhana yak?
 
-Dibangun di Debian 7
+Dibangun di Debian 7 x64
 
 Gunakan dengan resiko sendiri!
 
