@@ -2,7 +2,7 @@
 
 NGINX yang digunakan di [Oniichan.us](https://oniichan.us) dengan compile:
 
-`./configure --with-http_ssl_module --with-http_spdy_module --with-ipv6 --with-http_gzip_static_module --with-http_auth_request_module --prefix=/nginx`
+`--with-http_ssl_module --with-http_spdy_module --with-ipv6 --with-http_gzip_static_module --with-http_auth_request_module --with-http_gunzip_module --with-pcre-jit --prefix=/nginx`
 
 sederhana yak?
 
