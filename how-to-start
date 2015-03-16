@@ -1,0 +1,2 @@
+start: /nginx/sbin/nginx
+stop: /nginx/sbin/nginx -s quit
